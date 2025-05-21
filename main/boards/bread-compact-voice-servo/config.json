@@ -1,0 +1,5 @@
+{
+    "name": "Bread Compact Voice Servo",
+    "mcu": "esp32s3",
+    "description": "Board based on bread-compact-wifi-lcd with added voice control for a servo motor."
+}
